@@ -200,7 +200,6 @@ input, select, textarea {
 		line-height: 1.5;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
-		letter-spacing: 0.35em;
 	}
 
 		h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3318,7 +3317,7 @@ input, select, textarea {
 .window__title {
 	line-height: 1.5;
 	text-transform: uppercase;
-	letter-spacing: 0.35em;
+	letter-spacing: 0.2em;
   	font-weight: 900;
   	font-size: 1em;
 }
